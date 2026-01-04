@@ -10,7 +10,7 @@ Analyzed pizza sales data using Excel, SQL, and Power BI to uncover sales trends
 - **Excel**: Data cleaning, pivot tables, charts
 - **SQL**: Querying sales data, aggregations, trend analysis
 - **Power BI**: Interactive dashboards, KPI visualization, trend analysis
-
+  
 ## Key Insights
 - Top-selling pizza items identified
 - Peak sales hours and seasonal trends analyzed
