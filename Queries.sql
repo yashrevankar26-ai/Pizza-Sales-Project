@@ -3,7 +3,7 @@ select * from pizza_sales;
 
 Desc pizza_sales; 
 
-#KPI's
+#KPI's 
 Select sum(total_price) as Total_Revenue from pizza_sales;
 
 Select sum(total_price) / count(distinct order_id) as Avg_Order_Value from pizza_sales;
