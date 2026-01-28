@@ -1,7 +1,6 @@
 use practice;
 select * from pizza_sales;
 
-Desc pizza_sales; 
 
 #KPI's 
 Select sum(total_price) as Total_Revenue from pizza_sales;
