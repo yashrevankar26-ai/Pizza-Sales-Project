@@ -9,7 +9,7 @@ Analyzed pizza sales and customer order data to uncover insights that improve sa
 - Analyze revenue trends across different stores or regions
 - Provide actionable insights for sales strategy and inventory management
 
-## Tools & Technologies
+## Tools & Technologies 
 - **Excel**: Data cleaning, pivot tables, charts
 - **SQL**: Querying sales data, aggregations, trend analysis
 - **Power BI**: Interactive dashboards, KPI visualization, trend analysis
