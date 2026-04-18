@@ -1,5 +1,5 @@
 # Pizza-Sales-Project
-Analyzed pizza sales data using Excel, SQL, and Power BI to uncover sales trends, peak hours, popular items, and revenue patterns through interactive dashboards. 
+Analyzed pizza sales data using Excel, SQL, and Power BI to uncover sales trends, peak hours, popular items, and revenue patterns through interactive dashboards.
 
 ## Project Overview
 Analyzed pizza sales and customer order data to uncover insights that improve sales performance, inventory management, and customer satisfaction. Interactive dashboards provide actionable insights for business decision-making, helping managers track revenue trends, popular items, and peak ordering periods efficiently.
