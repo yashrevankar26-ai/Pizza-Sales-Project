@@ -4,7 +4,7 @@ Analyzed pizza sales data using Excel, SQL, and Power BI to uncover sales trends
 ## Project Overview
 Analyzed pizza sales and customer order data to uncover insights that improve sales performance, inventory management, and customer satisfaction. Interactive dashboards provide actionable insights for business decision-making, helping managers track revenue trends, popular items, and peak ordering periods efficiently.
 
-## Objectives 
+## Objectives
 - Identify peak sales periods and popular pizza items.
 - Analyze revenue trends across different stores or regions.
 - Provide actionable insights for sales strategy and inventory management.
