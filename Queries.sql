@@ -1,4 +1,3 @@
-use practice;
 select * from pizza_sales;
 
 
