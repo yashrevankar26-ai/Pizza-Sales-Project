@@ -7,7 +7,7 @@ Analyzed pizza sales and customer order data to uncover insights that improve sa
 ## Objectives
 - Identify peak sales periods and popular pizza items.
 - Analyze revenue trends across different stores or regions.
-- Provide actionable insights for sales strategy and inventory management. 
+- Provide actionable insights for sales strategy and inventory management.
 
 ## Tools & Technologies
 - **Excel**: Data cleaning, pivot tables, charts
